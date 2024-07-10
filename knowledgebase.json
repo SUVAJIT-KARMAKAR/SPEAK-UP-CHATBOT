@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "Hi",
+      "answer": "Hello! How can I assist you today?"
+    },
+    {
+      "question": "What are you doing ?",
+      "answer": "I'm here, ready to help you with any questions or tasks you have. What can I do for you today?"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hey there !"
+    }
+  ]
+}
