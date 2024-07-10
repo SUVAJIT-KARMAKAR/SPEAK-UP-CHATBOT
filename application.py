@@ -61,7 +61,6 @@ def speakup():
                 print(f"BOT : Thank you ! I will memorize it")
 
 
-
 # CLI RUN STATE 
 if __name__ == '__main__':
     speakup()
